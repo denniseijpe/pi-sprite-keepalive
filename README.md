@@ -23,9 +23,6 @@ To try it for one invocation without installing it:
 pi -e npm:pi-sprite-keepalive
 ```
 
-After the repository is pushed to a Git host, it can also be installed from
-that repository with `pi install git:<repository-url>`.
-
 ## Behavior
 
 - Starts a task with a five-minute expiry on `agent_start`.
