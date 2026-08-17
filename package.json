@@ -1,6 +1,6 @@
 {
   "name": "pi-sprite-keepalive",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A pi extension that keeps a Sprite awake while the agent is working.",
   "type": "module",
   "main": "./index.ts",
